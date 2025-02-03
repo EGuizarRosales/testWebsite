@@ -33,6 +33,7 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 There is one more line I added, but it is WIP.
 And this is a line I added after the first WIP commit.
+And this is a last change - now I am ready to commit.
 
 
 
